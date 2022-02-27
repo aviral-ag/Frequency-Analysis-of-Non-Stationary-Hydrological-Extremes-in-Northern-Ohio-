@@ -14,4 +14,4 @@
 - ??
 
 
-## We do not need Ohio_maxima_v1.ipynb file
+## We do not need Ohio_maxima_v1.ipynb, Vogel.py, Losiville_daily_updated*.csv... files.
