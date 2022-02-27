@@ -1,6 +1,7 @@
 # cee266f
 
 1. Trend_detection.ipynb
+
 -Autocorrelation  test
 - Non-parametric test--> Mann-kendall test
 - Parametric test --> Linear regression
